@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "Just Learning",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulTalreja007/git-test.git"
+  },
+  "author": "Rahul Talreja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulTalreja007/git-test/issues"
+  },
+  "homepage": "https://github.com/RahulTalreja007/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
